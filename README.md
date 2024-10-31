@@ -1,5 +1,9 @@
 # DOM - Document Object Model
 
+- JS DOM
+- Finding and reading elements
+- Creating and Deleting
+- Editing Elements
 
 ### Querying Methods
 
